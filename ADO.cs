@@ -3,7 +3,7 @@ using Microsoft.Data.SqlClient;
 
 namespace DataAccess
 {
-    class Program
+    class ADO
     {
         static void Main(string[] args)
         {
